@@ -7,7 +7,7 @@ import Hero from './components/Hero';
 import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
 
-function App() {
+function Home() {
 	
   return (
     <div>
@@ -21,4 +21,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
